@@ -24,7 +24,8 @@ as a learning tool.
 
 ---
 
-### Task 1: Click on the Landing Page and Select the Linux Module
+### Task 1: Click on the Landing Page and Select the Linux Module:
+https://killercoda.com 
 
 <img src="../../.github/assets/intro_killercoda.jpeg" width="500">
 
